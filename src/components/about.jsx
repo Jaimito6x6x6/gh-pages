@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Machine Learning </h3>
-                    <p>I have experience in data analysis and building predictive models using Python's Scikit-learn, Tensorflow and Keras</p>
+                    <p>I have experience in data analysis and building predictive models using Python's Scikit-learn, Tensorflow, and Keras.</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from a computer engineering background , I have good grasp over fundamental concepts of DSA</p>
+                    <p>As coming from a computer engineering background, I have a good grasp of fundamental concepts of DSA.</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Automation</h3>
-                    <p>Experienced scripting in Python and using Jenkins</p>
+                    <p>Experience scripting in Python and using Jenkins</p>
                 </div>
                 </div>
             </div>
