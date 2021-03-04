@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://jaimitosofrito.github.io/gh-pages",
   "dependencies": {
+    "babel-jest": "^24.9.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "^3.4.1",
