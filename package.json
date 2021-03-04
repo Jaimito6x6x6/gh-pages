@@ -10,6 +10,7 @@
     "react-scripts": "^3.4.1",
     "react-scroll": "^1.8.0",
     "travis": "^0.1.1",
+    "twemoji": "^13.0.1",
     "yarn": "^1.13.0"
   },
   "scripts": {
